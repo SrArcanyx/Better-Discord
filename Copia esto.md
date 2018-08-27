@@ -24,4 +24,4 @@ body::after,
 .radio-theme.light label,
 .radio-theme.dark label {
     background-image: url(https://i.imgur.com/U6ZfbgS.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
-}
+} 
